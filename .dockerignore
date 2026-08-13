@@ -1,0 +1,4 @@
+ml_journey/
+__pycache__/
+*.pyc
+.git/
