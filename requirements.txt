@@ -4,3 +4,7 @@ scikit-learn==1.4.2
 pytest==8.2.0
 pytest-cov==5.0.0
 ruff==0.4.4
+ydata-profiling==4.9.0
+matplotlib==3.9.0
+plotly==5.22.0
+jupyter==1.0.0
